@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá, devs! 👋
+&nbsp;
 
-<!--
-**cinthia-queiroz/cinthia-queiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sejam bem-vindos ao meu perfil! :sparkles:
 
-Here are some ideas to get you started:
+Tenho 30 anos, moro em Petrópolis/RJ e sou apaixonada por tecnologia desde quando ganhei meu primeiro computador lá em 1998.
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Faço parte da turma 31 de desenvolvimento web na [Trybe](http://betrybe.com/).
+- Passei por fundamentos, HTML, CSS e agora estou estudando JavaScript.
+- Sou formada em publicidade e tenho a fotografia como hobby.
+
+&nbsp;
+
+#### 💻 Tecnologias:
+
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+&nbsp;
+#### 📫 Contatos:
+
+<div>
+<a href = "mailto:queiroz.cinthia@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+&nbsp;
+
+&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinthia-queiroz&show_icons=true&theme=transparent)
